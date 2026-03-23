@@ -7,10 +7,10 @@
 </p>
 
 > [!NOTE] 
-> I'm not very good at software development.
+> hope I don't stay up late every day.
 
 > [!TIP]
-> basic programming skill.
+> Rich imagination
 
 <hr/>
 
