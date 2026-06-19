@@ -7,15 +7,16 @@
 </p>
 
 > [!NOTE] 
-> hope I don't stay up late every day.
+> 啊呀呀懒得写文档了反正程序动ε=ε=ε=(~￣▽￣)~
 
 > [!TIP]
-> Rich imagination
+> 希望我不用每天都熬夜。
 
 <hr/>
 
-<h1 edtxt="cente">Development💫</h1> <!--left,center,right-->
-<!--<div edtxt="left">~Web Static🌐</div> -->
+<!--
+<h1 edtxt="cente">Development💫</h1>
+
 
 > Web Static🌐
 > 
@@ -69,6 +70,8 @@
 >
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+..>
 
 <!--
 **edwinarch/edwinarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
