@@ -9,9 +9,24 @@
 
 
 <p align="left">
-  <img src="./img/2024新年快乐.jpg" width="200">
-    <img src="./img/amashiro-natsuki-virtual-youtuber-thumb.jpg" width="200">
-      <img src="./img/LB社生日聚会.png" width="182">
+  <img src="./img/gallery/2024新年快乐.jpg" width="200">
+    <img src="./img/gallery/amashiro-natsuki-virtual-youtuber-thumb.jpg" width="200">
+      <img src="./img/gallery/LB社生日聚会.png" width="182">
+        <img src="./img/gallery/Screenshot_20260929_110623.jpg" width="165">
+          <img src="./img/gallery/Screenshot_20260929_113202_com.ss.android.ugc.aweme.lite_edit_413893850937884.jpg" width="182">
+</p>
+
+<p align="left">
+  <img src="./img/gallery/Screenshot_20260929_111016.jpg" width="120">
+    <img src="./img/gallery/Screenshot_20260929_113034.jpg" width="126">
+      <img src="./img/gallery/Screenshot_20260929_113056.jpg" width="106">
+        <img src="./img/gallery/Screenshot_20260929_113217.jpg" width="112">
+          <img src="./img/gallery/Screenshot_20260929_113300.jpg" width="120">
+            <img src="./img/gallery/Screenshot_20260929_113340.jpg" width="107">
+              <img src="./img/gallery/Screenshot_20260929_113528.jpg" width="109">
+                <img src="./img/gallery/Screenshot_20260929_113815.jpg" width="150">
+                  <img src="./img/gallery/Screenshot_20260929_113833.jpg" width="126">
+                    <img src="./img/gallery/Screenshot_20260929_113907.jpg" width="142">
 </p>
 
 > [!NOTE] 
