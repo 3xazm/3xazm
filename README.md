@@ -24,9 +24,11 @@
           <img src="./img/gallery/Screenshot_20260929_113300.jpg" width="120">
             <img src="./img/gallery/Screenshot_20260929_113340.jpg" width="107">
               <img src="./img/gallery/Screenshot_20260929_113528.jpg" width="109">
+  <!--
                 <img src="./img/gallery/Screenshot_20260929_113815.jpg" width="150">
                   <img src="./img/gallery/Screenshot_20260929_113833.jpg" width="126">
                     <img src="./img/gallery/Screenshot_20260929_113907.jpg" width="142">
+  -->
 </p>
 
 > [!NOTE] 
