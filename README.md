@@ -35,7 +35,6 @@ I'm 3xazm (18 y.o) ! 😎
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 
-<br><br>
 :stars: Stats-and-Language:
 <br><br>
 <picture>
