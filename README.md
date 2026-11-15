@@ -40,7 +40,7 @@ I'm 3xazm (18 y.o) ! 😎
 <br><br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img width="39%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <img width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=3xazm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
