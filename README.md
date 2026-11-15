@@ -1,11 +1,11 @@
 # Hi there 👋
 
 <p>
-I'm 3xazm (18 y.o), Welcome to my page! 😎 </br> 
-<b>I'm currently a software engineer, also Games Localization Author</b>
+1.I'm is 3xazm (18 y.o), Welcome to my page! 😎 </br> 
+2.I am currently a software engineer, also Games Localization Author. </br> 
+3.I am Speaks both Chinese and Spanish </br> 
+4.I am Is sky-children-of-light veteran player </br> 
 </p>
-
-
 
 :page_with_curl: I'm currently learning:
 <br><br>
