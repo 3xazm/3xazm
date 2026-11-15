@@ -1,8 +1,11 @@
 # Hi there 👋
 
-<p>I'm 3xazm (18 y.o) ! 😎 </br> <b></b> </p>
+<p>
+I'm 3xazm (18 y.o), Welcome to my page! 😎 </br> 
+<b>I'm currently a software engineer, also Games Localization Author</b>
+</p>
 
-##
+
 
 :page_with_curl: I'm currently learning:
 <br><br>
